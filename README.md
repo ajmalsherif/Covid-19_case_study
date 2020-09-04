@@ -1,1 +1,1 @@
-# Covid-19_case_study
+# Exploratory Data Analysis of COVID-19 data
